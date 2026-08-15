@@ -18,14 +18,14 @@
     "@pinia/nuxt": "^0.5.1",
     "@vite-pwa/nuxt": "^0.6.0",
     "@vueuse/nuxt": "^10.11.0",
-    "firebase": "^10.12.2",
+    "firebase": "^12.17.1",
     "pinia": "^2.1.7",
     "vue": "^3.4.31",
     "vue-router": "^4.4.0"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^2.6.4",
-    "nuxt": "^3.12.3",
+    "@nuxt/devtools": "^3.4.1",
+    "nuxt": "^3.21.11",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.5.3"
   }
